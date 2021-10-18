@@ -94,4 +94,14 @@ img {
       margin-top: 20px;
 }
 
+.container {
+  width: 100%;
+  padding: 15px;
+  background-color: rgb(242 240 205);
+}
+
+.container.grey {
+  background-color: white;
+}
+
 }
