@@ -114,3 +114,7 @@ img {
   margin: 0 auto;
   }
 }
+
+#why .row{
+  background-color: lightblue;
+}
